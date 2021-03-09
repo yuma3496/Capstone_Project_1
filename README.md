@@ -23,3 +23,6 @@ This program will be useful for those who wish to get desired output for simple 
 3. When opened, the IDLE python file will display a Python 'shell' window. From this window, you can now click on 'file' and then 'open' from the toolbar at the top of the window, to navigate to the Finance Calculator program and open it. Once opened, you will be able to view the program code in another file window that will automatically open separately to the Python shell.
 
 4. When you are ready to run it, you can select 'run' from the top toolbar and then interact with the output displayed in the Python shell window. That is where you will be prompted to enter information from your keyboard to choose a calculator and then input the necessary details for calculation.
+
+## Contributions
+This was developped individually by myself in the software engineering bootcamp. However, it has been reviewed and commented on by the helpful mentors at Hyperion Development.
