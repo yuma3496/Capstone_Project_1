@@ -7,6 +7,7 @@ Investment Calculator is a program written in Python. This program was designed 
 When run, this program firstly displays a menu to the user. The program will then prompt the user for input with a series of questions, which will capture the information needed to calculate their total investment value over a certain number of years. For example, if the user chooses the investment calculator, they will be asked to enter the initial deposit amount, interest rate, number of years they plan to invest for, as well as whether they wish to invest with simple or compound interest. The program will then calculate the final investment value based on the user's input and display the results in an easy-to-read, informative sentence.
 
 ## Screenshot
+![alt text](https://github.com/yuma3496/Capstone_Project_I/blob/main/Capstone_Project_I.png)
 
 
 ## Usefulness
